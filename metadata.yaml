@@ -1,0 +1,36 @@
+_repo: Essays-Irish-and-American_62939
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Russell, George William
+    aliases:
+    - AE
+    - A.E.
+    - E., A.
+    - Russell, G. W. (George William)
+    birthdate: 1867
+    deathdate: 1935
+    gutenberg_agent_id: '1869'
+    url: http://www.gutenberg.org/2009/agents/1869
+    wikipedia: http://en.wikipedia.org/wiki/George_William_Russell
+creator:
+  author:
+    agent_name: Yeats, John Butler
+    birthdate: 1839
+    deathdate: 1922
+    gutenberg_agent_id: '52169'
+    url: http://www.gutenberg.org/2009/agents/52169
+    wikipedia: https://en.wikipedia.org/wiki/John_Butler_Yeats
+description: ''
+gutenberg_issued: '2020-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62939'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Essays Irish and American
+url: http://www.gutenberg.org/ebooks/62939
