@@ -1,5 +1,5 @@
 _repo: Essays-Irish-and-American_62939
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Russell, George William
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '1869'
     url: http://www.gutenberg.org/2009/agents/1869
     wikipedia: http://en.wikipedia.org/wiki/George_William_Russell
+covers:
+- cover_type: archival
+  image_path: 62939-h/images/cover.jpg
 creator:
   author:
     agent_name: Yeats, John Butler
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52169
     wikipedia: https://en.wikipedia.org/wiki/John_Butler_Yeats
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62939#Essays-Irish-and-American
 gutenberg_issued: '2020-08-16'
 gutenberg_type: Text
 identifiers:
